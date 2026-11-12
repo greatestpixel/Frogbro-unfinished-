@@ -9,3 +9,7 @@ In this game, you have to eat glowflies to gain points whilst evading the hungry
 To play, simply use the arrow keys to move. Frogbro cannot swim so don't jump into the water.
 
 The toad will get angrier and faster the more glowflies you eat. Can you reach the end?
+
+
+
+FrogmanTrue.zip contains the exe file for Frogbro. FrogmanGameMaker.yyz is the GameMaker project source containing all the code.
